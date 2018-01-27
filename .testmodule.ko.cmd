@@ -1,0 +1,1 @@
+cmd_/home/eipugf/labs/devos/lr2/testmodule.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-4.9.0-4-common/scripts/module-common.lds --build-id  -o /home/eipugf/labs/devos/lr2/testmodule.ko /home/eipugf/labs/devos/lr2/testmodule.o /home/eipugf/labs/devos/lr2/testmodule.mod.o ;  true

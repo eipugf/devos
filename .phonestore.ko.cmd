@@ -1,0 +1,1 @@
+cmd_/home/eipugf/labs/devos/lr2/phonestore.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-4.9.0-4-common/scripts/module-common.lds --build-id  -o /home/eipugf/labs/devos/lr2/phonestore.ko /home/eipugf/labs/devos/lr2/phonestore.o /home/eipugf/labs/devos/lr2/phonestore.mod.o ;  true
