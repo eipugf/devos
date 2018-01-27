@@ -1,1 +1,0 @@
-cmd_/home/eipugf/labs/devos/lr2/multitrading.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-4.9.0-4-common/scripts/module-common.lds --build-id  -o /home/eipugf/labs/devos/lr2/multitrading.ko /home/eipugf/labs/devos/lr2/multitrading.o /home/eipugf/labs/devos/lr2/multitrading.mod.o ;  true

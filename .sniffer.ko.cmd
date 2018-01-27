@@ -1,1 +1,0 @@
-cmd_/home/eipugf/labs/devos/lr2/sniffer.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-4.9.0-4-common/scripts/module-common.lds --build-id  -o /home/eipugf/labs/devos/lr2/sniffer.ko /home/eipugf/labs/devos/lr2/sniffer.o /home/eipugf/labs/devos/lr2/sniffer.mod.o ;  true
